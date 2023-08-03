@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691020952 source:c:\users\víctor melo\desktop\github\dartmontecarlo\dartsmontecarlo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
