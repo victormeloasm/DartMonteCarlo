@@ -43,6 +43,6 @@ int main() {
     double probability = (double)count / NUM_SIMULATIONS;
 
     printf("Estimated Probability: %lf\n", probability);
-
+    getch(); 
     return 0;
 }
