@@ -13,6 +13,9 @@
 ## Introduction
 This repository contains a C program that demonstrates the use of Monte Carlo simulation to estimate the probability of two darts landing at least one unit distance apart on a circular dartboard with a unit radius. The Monte Carlo simulation is a powerful and widely used computational technique for solving complex mathematical problems, especially when traditional analytical methods are impractical or computationally expensive.
 
+This was another exercise from my professor @Bernd-Ulmann. 
+![Exercise](exercise.jpg)
+
 ## The Dartboard Problem
 The Dartboard Problem presents an intriguing question: what is the probability that two darts, randomly thrown at a circular dartboard with a unit radius, will land at least one unit distance apart from each other? This problem involves integrals and can be analytically solved, yielding an exact probability of (3√3)/4*π ≈ 0.41349.
 
